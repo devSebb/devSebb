@@ -1,4 +1,4 @@
-<a href="https://sebb.ai"><img src="./assets/hero.svg" width="100%" alt="Sebastian Burke, forward deployed engineer. Client systems flow through the AI layer I build into outcomes running in production."></a>
+<a href="https://sebb.ai"><img src="./assets/hero.svg" width="100%" alt="devSebb, forward deployed engineer. Client systems flow through the AI layer I build into outcomes running in production."></a>
 
 <a href="https://sebb.ai"><img src="./assets/panel-twitchmetrics.svg" width="100%" alt="twitchmetrics.net rebuild at Hatchet: ingestion pipeline tracking 32K+ channels across Twitch, YouTube, TikTok, X and Kick."></a>
 <a href="https://sebb.ai"><img src="./assets/panel-factory.svg" width="100%" alt="Factory floor sequencer: production planning for a plastics plant, shipped in 8 weeks, replacing a 4-person coordination team."></a>
